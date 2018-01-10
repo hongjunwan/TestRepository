@@ -28,6 +28,7 @@
 
     <Button
         android:id="@+id/blog_prev"
+        android:background="#ffffff"
         android:layout_width="0sp"
         android:layout_height="wrap_content"
         android:text="이전"
